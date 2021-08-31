@@ -1,0 +1,9 @@
+xmltodict
+requests
+urllib3
+setuptools
+pytz
+events
+apscheduler
+iupdatable
+oBIX

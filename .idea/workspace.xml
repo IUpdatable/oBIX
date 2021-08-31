@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744c6559-a8bc-4bb9-a223-4ba1779bfa29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="03bc8b27-b3b5-4d7f-a649-0c30bbc6c141" />
+  <component name="ProjectId" id="1gIST5kLm8VmEkxluTQhL4wm5pV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NTU\OneDrive - Nanyang Technological University\SJ\oBIX\Src\oBIX\tests" />
+      <recent name="C:\Users\NTU\OneDrive\OneDrive - Nanyang Technological University\SJ\oBIX\Src\oBIX\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NTU\OneDrive\OneDrive - Nanyang Technological University\SJ\oBIX\Src\oBIX\oBIX" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo1">
+    <configuration name="course" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oBIX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/course.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oBIX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="export" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oBIX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/export.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fcc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="oBIX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/fcc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for clientTest.ClientTest.test_get_sub_folders" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="oBIX" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;clientTest.ClientTest.test_get_sub_folders&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo1" />
+        <item itemvalue="Python.export" />
+        <item itemvalue="Python.fcc" />
+        <item itemvalue="Python.course" />
+        <item itemvalue="Python tests.Unittests for clientTest.ClientTest.test_get_sub_folders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744c6559-a8bc-4bb9-a223-4ba1779bfa29" name="Default Changelist" comment="" />
+      <created>1597800617735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597800617735</updated>
+      <workItem from="1600826827895" duration="15478000" />
+      <workItem from="1600912412718" duration="13399000" />
+      <workItem from="1601004993432" duration="9053000" />
+      <workItem from="1601258286507" duration="6279000" />
+      <workItem from="1601343793158" duration="622000" />
+      <workItem from="1601350840734" duration="3198000" />
+      <workItem from="1601516467763" duration="20565000" />
+      <workItem from="1601607972099" duration="8608000" />
+      <workItem from="1601687756222" duration="8000" />
+      <workItem from="1605061007741" duration="23344000" />
+      <workItem from="1605231531305" duration="2480000" />
+      <workItem from="1606307301574" duration="2767000" />
+      <workItem from="1606543652672" duration="2207000" />
+      <workItem from="1606549909115" duration="3145000" />
+      <workItem from="1606701110576" duration="19671000" />
+      <workItem from="1606900281028" duration="106000" />
+      <workItem from="1606962988134" duration="22369000" />
+      <workItem from="1607573036040" duration="1310000" />
+      <workItem from="1606128551664" duration="1507000" />
+      <workItem from="1610520937484" duration="3755000" />
+      <workItem from="1610590594228" duration="4672000" />
+      <workItem from="1605840242405" duration="3370000" />
+      <workItem from="1611281870145" duration="10000" />
+      <workItem from="1605862294389" duration="3707000" />
+      <workItem from="1611887347609" duration="1035000" />
+      <workItem from="1611889202207" duration="354000" />
+      <workItem from="1612326084223" duration="651000" />
+      <workItem from="1619150995162" duration="8441000" />
+      <workItem from="1630396688552" duration="1207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619160219860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619160219860" />
+    <state width="1918" height="707" key="DebuggerActiveHint" timestamp="1619154426368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1534" height="560" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1611651817495" />
+    <state width="1918" height="707" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1619154426368" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619160418597" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="341" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619160418596" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="341" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619160418596" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="341" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619160418596" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619159637235" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619159637235" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619159637235" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right" timestamp="1619173583223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619173583223" />
+    <state width="1877" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619159637235" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1619160286544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1619160286544" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/clientTest.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo1.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo1.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oBIX/client/client.py</url>
+          <line>582</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oBIX/client/client.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oBIX/client/client.py</url>
+          <line>571</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/demo1.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="root" language="Python" />
+        <watch expression="root[&quot;err&quot;]" language="Python" />
+        <watch expression="root.keys()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_get_sub_folders.coverage" NAME="Unittests for clientTest.ClientTest.test_get_sub_folders Coverage Results" MODIFIED="1606984478789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$fcc.coverage" NAME="fcc Coverage Results" MODIFIED="1611281874132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_override_point.coverage" NAME="Unittests for clientTest.ClientTest.test_override_point Coverage Results" MODIFIED="1593663947672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1619160418584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest.coverage" NAME="Unittests for clientTest.ClientTest Coverage Results" MODIFIED="1593662873842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_poll_watch_refresh.coverage" NAME="Unittests for clientTest.ClientTest.test_poll_watch_refresh Coverage Results" MODIFIED="1601613051934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$export.coverage" NAME="export Coverage Results" MODIFIED="1611889210788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_read_point_value.coverage" NAME="Unittests for clientTest.ClientTest.test_read_point_value Coverage Results" MODIFIED="1593663883837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_poll_watch_changes.coverage" NAME="Unittests for clientTest.ClientTest.test_poll_watch_changes Coverage Results" MODIFIED="1601536303956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$demo.coverage" NAME="demo Coverage Results" MODIFIED="1604307891580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_read_history.coverage" NAME="Unittests for clientTest.ClientTest.test_read_history Coverage Results" MODIFIED="1601613034321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_temp.coverage" NAME="Unittests for clientTest.ClientTest.test_temp Coverage Results" MODIFIED="1600851049824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_set_point_emergency_auto.coverage" NAME="Unittests for clientTest.ClientTest.test_set_point_emergency_auto Coverage Results" MODIFIED="1593664043197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_read_alarms.coverage" NAME="Unittests for clientTest.ClientTest.test_read_alarms Coverage Results" MODIFIED="1601613012274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_add_watch_points.coverage" NAME="Unittests for clientTest.ClientTest.test_add_watch_points Coverage Results" MODIFIED="1601613043630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_set_point_value.coverage" NAME="Unittests for clientTest.ClientTest.test_set_point_value Coverage Results" MODIFIED="1593663940937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_watch_changed.coverage" NAME="Unittests for clientTest.ClientTest.test_watch_changed Coverage Results" MODIFIED="1601613059014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$course.coverage" NAME="course Coverage Results" MODIFIED="1606129686165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_read_point_slot.coverage" NAME="Unittests for clientTest.ClientTest.test_read_point_slot Coverage Results" MODIFIED="1593663753808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_add_watch.coverage" NAME="Unittests for clientTest.ClientTest.test_add_watch Coverage Results" MODIFIED="1601020154459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_set_point_auto.coverage" NAME="Unittests for clientTest.ClientTest.test_set_point_auto Coverage Results" MODIFIED="1593664049537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$People.coverage" NAME="People Coverage Results" MODIFIED="1601354382942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oBIX/client" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_emergency_override_point.coverage" NAME="Unittests for clientTest.ClientTest.test_emergency_override_point Coverage Results" MODIFIED="1593663996361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/oBIX$Unittests_for_clientTest_ClientTest_test_read_point.coverage" NAME="Unittests for clientTest.ClientTest.test_read_point Coverage Results" MODIFIED="1605065891134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
