@@ -6,6 +6,7 @@ A client package for interacting with oBIX(Open Building Information Exchange)
 
 ## 0. Installation
 
+* make sure Python version >= 3.7
 
 ```bash
 pip install oBIX
@@ -163,8 +164,22 @@ export_result = client.export_points()
 export_result = client.export_points(folder_path="/config/AHU/", export_file_name="output.json", export_type=1)
 ```
 
-## 4. Useful Links
+
+## 4. FAQ
+
+### 4.1 There are spaces in the path
+
+use `$20` or `%2420` replace space
+
+### 4.2 Time data does not match
+error like this:
+```
+time data '2019-06-26T08:50:01.059+08:00' does not match from '%Y-%m-%dT%H:%M:%S.%f%z'
+```
+this means your Python version is too low, the minimal version is v3.7.
+
+## 5. Useful Links
 * [oBIX Protocol Document](http://docs.oasis-open.org/obix/obix/v1.1/csprd01/obix-v1.1-csprd01.html)
 * [oBIX Communication Raw Data](https://documenter.getpostman.com/view/1068428/S1LpaXea#intro)
 
-
+For more details, please refer to the project homepage: [oBIX](https://github.com/IUpdatable/oBIX)
