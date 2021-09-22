@@ -315,7 +315,7 @@ class Client:
                         elif key == "real":
                             one["value"] = float(data[key]["@val"])
                         elif key == "bool":
-                            one["value"] = bool(data[key]["@val"])
+                            one["value"] = True if str(data[key]["@val"]).lower() == "true" else False
                         elif key == "int":
                             one["value"] = int(data[key]["@val"])
                         else:
