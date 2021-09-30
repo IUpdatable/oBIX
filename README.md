@@ -176,7 +176,12 @@ error like this:
 ```
 time data '2019-06-26T08:50:01.059+08:00' does not match from '%Y-%m-%dT%H:%M:%S.%f%z'
 ```
+
 this means your Python version is too low, the minimal version is v3.7.
+
+### 4.3 Error: Illegal double slashes
+
+DO NOT USE "//" in point path, error example: "/config/Views//CH1_CoolingCapacity/"
 
 ## 5. Useful Links
 * [oBIX Protocol Document](http://docs.oasis-open.org/obix/obix/v1.1/csprd01/obix-v1.1-csprd01.html)

@@ -18,7 +18,7 @@ URL = 'https://github.com/IUpdatable/oBIX'
 EMAIL = 'IUpdatable@163.com'
 AUTHOR = 'IUpdatable'
 REQUIRES_PYTHON = '>=3.7.0'
-VERSION = '0.4.8'
+VERSION = '0.5.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

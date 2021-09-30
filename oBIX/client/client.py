@@ -155,6 +155,10 @@ class Client:
                 response = requests.get(url, auth=(self.__user_name, self.__password), verify=False)
             if response.status_code == 200:
                 xml_root = xmlElement.fromstring(response.text)
+                # check err
+                if "err" in xml_root.tag and "display" in xml_root.attrib:
+                    Logger.instance().error("[{} read_point Error]: {}".format(point_path, xml_root.attrib["display"]))
+                    return None
                 xml_root_str = xmlElement.tostring(xml_root, encoding="utf-8")
                 point_dict = xmltodict.parse(xml_root_str)
                 first_key = list(point_dict.keys())[0]
