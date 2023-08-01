@@ -76,7 +76,8 @@ class Util(object):
                 data_type_str = data_type_str.split(":")[-1]
 
             point.data_type = Util.parse_data_type(data_type_str)
-
+            if type(slots) == dict:
+                slots = [slots]
             for slot in slots:
                 name = slot["@name"]
                 value_str = None
